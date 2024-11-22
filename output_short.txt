@@ -1,0 +1,3 @@
+hot dog
+hello world
+example string
